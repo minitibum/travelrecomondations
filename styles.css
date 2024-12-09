@@ -71,3 +71,10 @@ footer {
     height: 900px; 
     overflow-y: auto;
 }
+
+.homepage-intro {
+    color: white;
+    float: left;
+    justify-content: left;
+    padding: 20em;
+}
